@@ -13,5 +13,6 @@ namespace POC.Contracts
         public Task DeleteCompany(int id);
 
         public Task AddRandom();
+      
     }
 }
